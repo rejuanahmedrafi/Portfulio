@@ -1,0 +1,207 @@
+body{
+    margin: 0%;
+    font-family: 'Raleway', sans-serif;
+}
+
+#front-page{
+
+   
+}
+.header{
+    
+    background: linear-gradient(#2c3e50, #2c3e50c5), url(images/header.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 100%;
+    height: 755px;
+    
+}
+.header-element{
+    padding-top: 25px;
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-right: 150px;
+}
+.logo{
+    width: 42%;
+}
+.link-element{
+
+    flex-direction: right;
+}
+ul {
+   
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    
+    float: right;
+  }
+  
+
+  
+  li a {
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover{
+    color: #111;
+  }
+  .back-color{
+    background-color: red;
+  }
+  .profile{
+    font-family: Raleway,sans-serif;
+    color: white;
+    font-size:40px ;
+    padding-top: 150px;
+    padding-bottom:15px ;
+    line-height: 25px;
+  }
+.button{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+}
+.mini-footer{
+    color: white;
+    padding-top: 120px;
+    display: flex;
+}
+.first-footer{
+    padding-right: 370px;
+    
+}
+.second-footer{
+    padding-top: 50px;
+    padding-right: 150px;
+    text-align: right;
+}
+.third-footer{
+    padding-top: 50px;
+    text-align: right;
+}
+.fa {
+  color: white;
+  text-decoration: none;
+}
+.profile2{
+    padding-top: 120px;
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-bottom: 100px;
+    display: flex;
+}
+.profile2 h2{
+  color: red;
+}
+.profile3{
+  background-color: #f1fafb;
+  padding-top: 30px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 30px;
+}
+.container {
+
+  display: flex;
+  width: 100%;
+  justify-content: space-between ;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: #fff;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  width: 350px;
+}
+.card-header img {
+  width: 100%;
+
+}
+.card-body {
+  text-align: center;
+
+}
+.card-body p {
+  font-size: 13px;
+
+}
+.profile4{
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 100px;
+}
+.card2 {
+  width: 350px;
+}
+.card2-body h2{
+  color: red;
+}
+.profile5{
+  background-color: #f1fafb;
+  padding-top: 30px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 30px;
+}
+.developer-profile{
+  display: flex;
+}
+.profile6{
+  background: #2c3e50;
+  padding-top: 60px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 60px;
+}
+.mini-footer2{
+  color: white;
+  display: flex;
+
+}
+.profile7{
+  background-color: #f1fafb;
+  padding-top: 60px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 60px;
+}
+.profile8{
+  padding-top: 60px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 60px;
+  justify-content: center;
+}
+.contact-profile{
+  display: flex;
+}
+.contact-info{
+  padding-left: 150px;
+}
+.profile9{
+  padding-top: 60px;
+  padding-left: 205px;
+  padding-right: 205px;
+  padding-bottom: 60px;
+}
+footer{
+  padding-top: 20px;
+}
+.footer-details{
+  border-top: 2px solid black;
+}
+p{
+  color: #65737e;
+}
