@@ -79,7 +79,7 @@ ul {
     display: flex;
 }
 .first-footer{
-    padding-right: 370px;
+    padding-right: 350px;
     
 }
 .second-footer{
@@ -200,7 +200,7 @@ footer{
   padding-top: 20px;
 }
 .footer-details{
-  border-top: 2px solid black;
+  border-top: 2px solid darkgray;
 }
 p{
   color: #65737e;
