@@ -20,7 +20,7 @@ body{
     padding-top: 25px;
     padding-left: 205px;
     padding-right: 205px;
-    padding-right: 150px;
+    
 }
 .logo{
     width: 42%;
@@ -56,61 +56,65 @@ ul {
     color: #111;
   }
   .back-color{
-    background-color: red;
+    background-color: #f06161;
   }
   .profile{
-    font-family: Raleway,sans-serif;
+    font-family: 'Raleway',sans-serif;
     color: white;
-    font-size:40px ;
+    font-size:45px ;
     padding-top: 150px;
     padding-bottom:15px ;
     line-height: 25px;
   }
 .button{
     color: white;
-    background-color: red;
+    background-color: #f06161;
     text-decoration: none;
     padding: 10px 20px 10px 20px;
     border-radius: 25px;
 }
 .mini-footer{
     color: white;
-    padding-top: 120px;
+    padding-top: 140px;
     display: flex;
+    line-height: 2px;
 }
 .first-footer{
-    padding-right: 350px;
+    padding-right: 320px;
     
 }
 .second-footer{
-    padding-top: 50px;
+    padding-top: 10px;
     padding-right: 150px;
     text-align: right;
 }
 .third-footer{
-    padding-top: 50px;
+    padding-top: 23px;
     text-align: right;
+}
+.third-footer a{
+  padding: 2px;
 }
 .fa {
   color: white;
   text-decoration: none;
 }
 .profile2{
-    padding-top: 120px;
+    padding-top: 80px;
     padding-left: 205px;
     padding-right: 205px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     display: flex;
 }
 .profile2 h2{
-  color: red;
+  color: #f06161;
 }
 .profile3{
   background-color: #f1fafb;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-left: 205px;
   padding-right: 205px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
 }
 .container {
 
@@ -140,20 +144,20 @@ ul {
   padding-top: 40px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 .card2 {
   width: 350px;
 }
 .card2-body h2{
-  color: red;
+  color: #f06161;;
 }
 .profile5{
   background-color: #f1fafb;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-left: 205px;
   padding-right: 205px;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
 }
 .developer-profile{
   display: flex;
@@ -168,17 +172,18 @@ ul {
 .mini-footer2{
   color: white;
   display: flex;
+  line-height: 2px;
 
 }
 .profile7{
   background-color: #f1fafb;
-  padding-top: 60px;
+  padding-top: 40px;
   padding-left: 205px;
   padding-right: 205px;
-  padding-bottom: 60px;
+  padding-bottom: 70px;
 }
 .profile8{
-  padding-top: 60px;
+  padding-top: 40px;
   padding-left: 205px;
   padding-right: 205px;
   padding-bottom: 60px;
@@ -203,5 +208,5 @@ footer{
   border-top: 2px solid darkgray;
 }
 p{
-  color: #65737e;
+  color: darkgray;
 }
